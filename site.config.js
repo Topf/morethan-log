@@ -2,20 +2,20 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Matthias",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "founder",
-    bio: "I build cool products.",
+    image: "/avatar2.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "founder in progress",
+    bio: "I build cool products and like to learn.",
     email: "matthias@kullbach.de",
     linkedin: "matthias-kullbach",
     github: "Topf",
     instagram: "",
   },
-  projects: [
-    {
-      name: `Semiring`,
-      href: "https://www.semiring.ai/",
-    },
-  ],
+  //projects: [
+    //{
+      //name: `Semiring`,
+      //href: "https://www.semiring.ai/",
+    //},
+  //],
   // blog setting (required)
   blog: {
     title: "Matthias's Blog",
