@@ -10,12 +10,12 @@ const CONFIG = {
     github: "Topf",
     instagram: "",
   },
-  //projects: [
-    //{
-      //name: `Semiring`,
-      //href: "https://www.semiring.ai/",
-    //},
-  //],
+  projects: [
+    {
+      name: `Semiring`,
+      href: "https://www.semiring.ai/",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Matthias's Blog",
